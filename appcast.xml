@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MemoFlow</title>
+    <link>https://memoflow.app</link>
+    <description>MemoFlow updates</description>
+    <item>
+      <title>MemoFlow 0.4.0</title>
+      <pubDate>Sun, 19 Jul 2026 12:20:15 +0000</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/Naveenschoudhary/memoflow-models/releases/tag/v0.4.0</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/Naveenschoudhary/memoflow-models/releases/download/v0.4.0/MemoFlow-0.4.0.dmg"
+        sparkle:edSignature="wMVxQGdnUbgoo/zoKk6O/wWFM9SqunqKrjzswFJ8QEGxIJQgEWmzmQdje/Q2mwjzvoRk8byP0Ee8166pS96nDQ==" length="8728264"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
