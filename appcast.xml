@@ -5,6 +5,31 @@
     <link>https://memoflow.app</link>
     <description>MemoFlow updates</description>
     <item>
+      <title>MemoFlow 0.6.0</title>
+      <pubDate>Tue, 08 Sep 2026 10:56:04 +0000</pubDate>
+      <sparkle:version>0.6.0</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate sparkle:version="0.6.0"></sparkle:criticalUpdate>
+      <sparkle:releaseNotesLink>https://github.com/Naveenschoudhary/memoflow-models/releases/tag/v0.6.0</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/Naveenschoudhary/memoflow-models/releases/download/v0.6.0/MemoFlow-0.6.0.dmg"
+        sparkle:edSignature="fA64ormU8RKNbZq0EPslqLQGsic1k2uy+d9JIq/wRrrb1eDcbc5f2UAE9Jk/TDPw+hVmRHw5G6/ccntYtQ5RDQ==" length="16038140"
+        type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>MemoFlow 0.5.0</title>
+      <pubDate>Thu, 27 Aug 2026 04:12:24 +0000</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/Naveenschoudhary/memoflow-models/releases/tag/v0.5.0</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/Naveenschoudhary/memoflow-models/releases/download/v0.5.0/MemoFlow-0.5.0.dmg"
+        sparkle:edSignature="2mtzED1amu3CEocj9ostMWjJrWYWgN6CesJONdJ7DqUIbTQk0RwIseaVo0KIJcH7MrIlQ/sZyV8iw3XB+GGNCg==" length="10012395"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MemoFlow 0.4.4</title>
       <pubDate>Thu, 23 Jul 2026 11:55:29 +0000</pubDate>
       <sparkle:version>0.4.4</sparkle:version>
