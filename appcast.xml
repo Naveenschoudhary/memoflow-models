@@ -5,6 +5,18 @@
     <link>https://memoflow.app</link>
     <description>MemoFlow updates</description>
     <item>
+      <title>MemoFlow 0.8.0</title>
+      <pubDate>Sun, 27 Sep 2026 12:56:23 +0000</pubDate>
+      <sparkle:version>0.8.0</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/Naveenschoudhary/memoflow-models/releases/tag/v0.8.0</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/Naveenschoudhary/memoflow-models/releases/download/v0.8.0/MemoFlow-0.8.0.dmg"
+        sparkle:edSignature="0ZK5kQ9n5n/Fiq/OhI8eUnmQyXrwwtfbSFP8QiydHlp4d9LlZlPTJ8M7XEbD31oWdnfTjcMA6DC16+2A4DPqDQ==" length="16812369"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MemoFlow 0.7.1</title>
       <pubDate>Wed, 09 Sep 2026 12:21:56 +0000</pubDate>
       <sparkle:version>0.7.1</sparkle:version>
